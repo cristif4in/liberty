@@ -1,3 +1,4 @@
+<img width="492" height="492" alt="favicon" src="https://github.com/user-attachments/assets/97ce75f5-824f-4426-b144-85f209389a93" />
 # Liberty
 
 A game engine written from scratch in Rust (on [Bevy](https://bevyengine.org)) that loads **your own
